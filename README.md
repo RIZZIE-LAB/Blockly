@@ -1,4 +1,3 @@
 # Blockly
-Misty Blockly
 
-blockly.mistyrobotics.com
+Misty Blockly Community Edition
